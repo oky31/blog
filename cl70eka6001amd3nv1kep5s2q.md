@@ -1,7 +1,7 @@
 ## Go (Map struktur Data)
 
-- adalah implementasi dari has table,
-- has table adalah struktur data  sepasang key/value  yang tidak ter-urut
+- adalah implementasi dari hash table
+- hash table adalah struktur data  sepasang key/value  yang tidak ter-urut
 - deklarasi `map[K]V` dimana `K` adalah tipe data dari key dan `V` adalah tipe data dari value
 - membuat map dengan build-in function
     
@@ -91,3 +91,7 @@ for name, age := range ages {
 
 - [Go maps in action](https://go.dev/blog/maps)
 - The Go Programming Language → Composite types → Maps
+
+**Changelog:**
+
+- fix typo (19-08-2022 20:37 GMT+7)
