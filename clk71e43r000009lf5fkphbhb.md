@@ -28,6 +28,7 @@ project ini akan diberinama **fake-market-place** yang memiliki beberapa module 
 
 ## Harus di mulai dari mana ?
 
-project ini di mulai dari pembuatan rest full api untuk module user management dengan stack teknologi GO & SQL, terkait sql saya belum menentuka mau mengunakan mysql atau postgree, pemilihan ini akan di lakukan berdasarkan mood pada saat memuli code module nya saja he he he.
+project ini di mulai dari pembuatan rest full api untuk module user management dengan stack teknologi GO & SQL, terkait sql saya belum menentukan mau mengunakan mysql atau postgree, pemilihan ini akan di lakukan berdasarkan mood pada saat memuli code module nya saja he he he.
 
-mungkin hanya segitu saja dulu terimakasih.
+mungkin hanya segitu saja dulu terimakasih.  
+di tuggu ya journey selanjutanya .....
