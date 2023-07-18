@@ -1,8 +1,8 @@
 ---
-title: "Journy #1 - Create User"
+title: "Journey #1 - Create User"
 datePublished: Tue Jul 18 2023 18:43:23 GMT+0000 (Coordinated Universal Time)
 cuid: clk8n7i0l000209jydys8estm
-slug: journy-1-create-user
+slug: journey-1-create-user
 tags: go, http, test-driven-development
 
 ---
