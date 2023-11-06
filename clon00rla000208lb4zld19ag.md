@@ -133,12 +133,12 @@ untuk sementara saya tidak akan mebuat struktur folder berdasarkan layer tersebu
 
 Agar response http standar saya membuat standar response sebagai berikut
 
-* | field name | tipe data | deskripsi |
-    | --- | --- | --- |
-    | errors | array of object | field ini hanya muncul ketika terjadi error saja, berisi detail dari eror yang terjadi |
-    | message | string | berisi pesan yang menampilkan tentang request tersebut |
-    | data | object atau array of object | berisi data yang akan di gunakan oleh consumer |
-    
+| Field name | Tipe data | Deskripsi |
+| --- | --- | --- |
+| errors | array of object | field ini hanya muncul ketika terjadi error saja, berisi detail dari eror yang terjadi |
+| message | string | berisi pesan yang menampilkan tentang request tersebut |
+| data | object atau array of object | berisi data yang akan di gunakan oleh consumer |
+
 * response success
     
     ```json
