@@ -198,7 +198,7 @@ Agar response http standar saya membuat standar response sebagai berikut
     ```
     
 
-Untuk Detail source code sekarang sudah bisa di lihat di gitub [https://github.com/oky31/fake-marketplace-rest-api/pull/new/journey-3](https://github.com/oky31/fake-marketplace-rest-api/pull/new/journey-3)
+Untuk Detail source code sekarang sudah bisa di lihat di gitub [https://github.com/oky31/fake-marketplace-rest-api/tree/journey-3](https://github.com/oky31/fake-marketplace-rest-api/tree/journey-3)
 
 ### Referensi :
 
